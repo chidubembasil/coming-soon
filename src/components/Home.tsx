@@ -47,7 +47,7 @@ function Home(){
                 <ul>
                     <li>Blogs</li>
                     <li>Podcasts</li>
-                    <li>Podcasts </li>
+                    <li>Teaching Pedagogy </li>
                 </ul>
                 <p>
                     For learners, for teachers, for lovers of the French language. We are building <br /> communities and connecting people with shared interests.
