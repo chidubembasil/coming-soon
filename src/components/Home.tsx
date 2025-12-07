@@ -1,6 +1,6 @@
 import '../assets/home.css'
 import { motion } from "framer-motion";
-import { Mic, BookOpen, Users, GraduationCap, Heart, Globe } from "lucide-react";
+import { Mic, BookOpen, GraduationCap } from "lucide-react";
 
 function Home(){
     type list = {
